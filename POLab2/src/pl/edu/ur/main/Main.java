@@ -2,7 +2,7 @@ package pl.edu.ur.main;
 
 /**
  *
- * @author marcin
+ * @author Lamar
  */
 import java.util.*;
 
